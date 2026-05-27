@@ -1,8 +1,9 @@
 # Global Sales Performance Dashboard
----
+
 ## Overview
 This project is an end-to-end dashboard developed as the capstone project for the Microsoft Power BI Data Analyst Professional Certificate on Coursera. The report simulates a retail analytics project for a home goods company operating across five countries.
 
+---
 ## Reports
 The dashboard is split into two pages. You can navigate between them using the buttons at the top of each page in the interactive report.
 For a quick look without opening Power BI, a PowerPoint summary is included below.
