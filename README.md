@@ -4,20 +4,23 @@
 This project is an end-to-end dashboard developed as the capstone project for the Microsoft Power BI Data Analyst Professional Certificate on Coursera. The report simulates a retail analytics project for a home goods company operating across five countries.
 
 ## Reports
-blah blah
+The dashboard is split into two pages. You can navigate between them using the buttons at the top of each page in the interactive report.
+For a quick look without opening Power BI, a PowerPoint summary is included below.
 ### Sales Overview
-Snapshot of overall sales performance, customer loyalty, and product demand.
+Overall sales performance, customer loyalty, and product demand.
 ![Sales Overview](Images/Sales%20Overview.png)
 ### Profit Overview
-blah blah
+Revenue and profitability across the reporting period.
 ![Profit Overview](Images/Profit%20Overview.png)
 ### Key Insights
-- a
-- b
-- c
+- Year-to-date (YTD) profit margin stands at 62.2%, with total net revenue of $14K over the reporting period.
+- The UK and USA demonstrate the highest customer loyalty scores, with 315 and 305 points respectively, indicating strong customer engagement in these markets.
+- Furniture, gardening, home decor, and tools are the top-performing product categories by units sold, accounting for over 50% of total sales.
+- A significant decline in both gross revenue and profit margin was observed at the beginning of October, with an overall downward trend in revenue over time.
 ### Business Recommendations
-- a
-- b
+- Investigate the sharp decline in sales and profit margin in October to identify potential causes such as seasonality, operational issues, or changes in customer behaviour.
+- The UK and USA show the highest customer loyalty and engagement, which present strong opportunities for upselling and introducing premium product lines.
+- Furniture, gardening, and home decor categories consistently perform well across all markets. Therefore, targeted marketing campaigns and promotions in these categories could help further increase sales and profitability.
 
 ## Project Workflow
 Here is a summary of how the project was built from start to finish.
@@ -41,8 +44,10 @@ Custom DAX measures were created to calculate key performance metrics used acros
 - **Yearly Profit Margin**: calculates overall profitability by comparing net profit to total revenue.
 - **Quarterly Profit**: tracks profit performance within each quarter to support short-term trend analysis and comparison across quarters.
 ### Creating the report
-The report was designed in Power BI Desktop with a focus on clarity and consistency. Both pages share the same colour scheme and layout structure. Page navigation buttons were added so users can move between the Sales Overview and Profit Overview pages seamlessly. KPI cards, bar charts, line charts, and pie/donut charts were used depending on what best suited each metric.
-### Future Improvements
+The report was designed in Power BI Desktop with a focus on clarity and consistency. Both pages share the same colour scheme and layout structure. Page navigation buttons were added so users 
+can move between the Sales Overview and Profit Overview pages seamlessly. KPI cards, bar charts, line charts, and pie/donut charts were used depending on what best suited each metric.
+
+## Future Improvements
 - Add Month-over-Month (MoM) and Year-over-Year (YoY) measures for deeper trend analysis and performance comparisons over time.
 - Implement drill-through pages for products, so that users can explore customer behaviour, sales patterns, and product performance in greater detail.
 - Include a table for key sales and profit variales to improve readability and provide additional context alongside visualisations.
