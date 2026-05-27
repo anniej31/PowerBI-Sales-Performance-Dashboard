@@ -5,5 +5,5 @@ This project is an end-to-end dashboard developed as the capstone project for th
 The dashboard is structured across two pages, and provides a high-level sales and profit overview and analysis, designed to support stakeholder in data-driven decision-making
 
 ## Contact
-- My Linkedin: (https://www.linkedin.com/in/anniej31/)
+- [My Linkedin](https://www.linkedin.com/in/anniej31/)
 - Email: anniejose94@gmaial.com
