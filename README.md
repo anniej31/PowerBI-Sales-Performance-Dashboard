@@ -6,7 +6,7 @@ This project is an end-to-end dashboard developed as the capstone project for th
 ## Reports
 The dashboard is structured across two pages, and provides a high-level sales and profit overview and analysis, designed to support stakeholder in data-driven decision-making.
 ### Sales Overview
-![Dashboard](images/sales overview.png)
+![PowerBI-Sales-Performance-Dashboard](Images/Sales Overview.png)
 ### Profit Overview
 
 
